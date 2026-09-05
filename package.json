@@ -188,7 +188,6 @@
   },
   "overrides": {
     "axios": "$axios",
-    "elliptic": "npm:@noble/curves@^1.4.0",
     "qs": "^6.16.0",
     "jest-chrome": {
       "jest": "$jest"
